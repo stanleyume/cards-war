@@ -1,0 +1,20 @@
+{
+  "name": "cards-war",
+  "version": "1.0.0",
+  "description": "Cards war game between two players.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanleyume/cards-war"
+  },
+  "keywords": [
+    "cards",
+    "war",
+    "game"
+  ],
+  "author": "Stanley Umeanozie",
+  "license": "ISC"
+}
